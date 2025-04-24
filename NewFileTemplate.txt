@@ -1,0 +1,6 @@
+program pixel;
+{$I Include\Math.pas}
+{$I Include\Graphics.pas}
+begin
+
+end.
