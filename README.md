@@ -1,10 +1,9 @@
-# Mr. Pixel
+Mr. Pixel is a program written in Delphi by former student Branislav Stojković for the Computer Graphics course. Nearly two decades after its creation, it is still actively used in computer graphics classes.
 
-* Branislav Stojković
-* Nikola Kostić
+The program allows you to write simple computer graphics algorithms in the Pascal programming language and visualize their execution pixel by pixel.
 
-Program za vizuelizaciju algoritama računarske grafike.
+The last modifications to the project made by the author were recorded at the end of 2006. I have worked on releasing a new version, fixing bugs, enhancing features, and introducing new functionalities.
 
-![Mr. Pixel](Resources/Readme/MrPixel.png)
+![Mr. Pixel](Resources/MrPixel.gif)
 
-Za više informacija pogledajte *MrPixel.docx*.
+For more information, see *MrPixel.docx* or *Guides* and *Samples*.
